@@ -1,6 +1,6 @@
 {
-"latestVersion":"6.8.23",
-"latestVersionCode":"12",
+"latestVersion":"7.8.23",
+"latestVersionCode":"13",
 "releaseNotes":[
 "sample only 😁
 <TextView
