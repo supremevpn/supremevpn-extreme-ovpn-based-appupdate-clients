@@ -1,2 +1,2 @@
 # supremevpn-extreme-ovpn-based-appupdate-clients
-App update clients
+App update clients sample only
