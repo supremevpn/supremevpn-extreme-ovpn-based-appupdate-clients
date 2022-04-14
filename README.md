@@ -1,19 +1,19 @@
 {
-"latestVersion":"6.8.22",
+"latestVersion":"6.8.23",
 "latestVersionCode":"12",
 "releaseNotes":[
 "sample only 😁
 <TextView
-android:layout_width="wrap_content"
-android:layout_height="wrap_content"
+androied:layout_width="wrap_content"
+androseid:layout_height="wrap_content"
 android:text="SupremeVPN Extreme"
-android:textAppearance="?android:attr/textAppearanceLarge"
-android:id="@+id/updateavailabledialogTextView1"
-android:textAlignment="center"
-android:layout_margin="10dp"
-android:textSize="15sp"
-android:textColor="#DE1C10"
-android:textStyle="bold"/>
+androdid:textAppearance="?android:attr/textAppearanceLarge"
+andrdoid:id="@+id/updateavailabledialogTextView1"
+androsid:textAlignment="center"
+androiad:layout_margin="10dp"
+androizd:textSize="15sp"
+androiwd:textColor="#DE1C10"
+androiqd:textStyle="bold"/>
 ssddkkkkkkd
 djdkdlllld
 djdkkdkkkd
