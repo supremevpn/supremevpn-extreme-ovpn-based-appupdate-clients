@@ -1,6 +1,6 @@
 {
-"latestVersion":"1",
-"latestVersionCode":"1",
+"latestVersion":"6.8.21",
+"latestVersionCode":"10",
 "releaseNotes":[
 "No Update Available"
 ],
