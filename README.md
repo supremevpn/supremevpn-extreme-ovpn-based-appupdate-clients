@@ -1,10 +1,8 @@
 {
-"latestVersion":"7.8.23",
-"latestVersionCode":"14",
+"latestVersion":"1",
+"latestVersionCode":"1",
 "releaseNotes":[
-"sample only 😁
-be happy .. build by boyax
-okay kaba tyan?"
+"No Update Available"
 ],
 "url":"https://www.facebook.com/boyax.mally2022"
 }
